@@ -1,0 +1,9 @@
+{
+    "subscription_id": "YOUR SUBSCRIPTION ID",
+    "resource_group": "YOUR RESOURCE GROUP",
+    "workspace_name": "YOUR WORKSPACE NAME"
+}
+
+// 1. Fill in the placeholders with your own values
+// 2. Save the file as `config.json` in the same directory as the notebook.
+// 3. Remove these comments, because comments are not permitted im JSON
